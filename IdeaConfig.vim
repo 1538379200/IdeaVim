@@ -4,7 +4,7 @@
 "" -- Suggested options --
 " Show a few lines of context around the cursor. Note that this makes the
 " text scroll if you mouse-click near the start or end of the window.
-" 移动光标间隔顶部和底部5行时自动进行页面滚动操作
+" 移动光标间隔顶部和底部5行时自动进行页面滚动操作，设置后顶和底和屏幕隔5行
 set scrolloff=5
 set nu
 set relativenumber
