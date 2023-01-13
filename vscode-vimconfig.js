@@ -1,4 +1,10 @@
 {
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "vscode-edge-devtools.mirrorEdits": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true,
     "workbench.colorTheme": "One Dark Pro",
     "editor.fontFamily": "'JetBrainsMono NFM', 'Courier New', monospace",
     "editor.fontSize": 16,
