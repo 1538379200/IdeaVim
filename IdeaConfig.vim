@@ -16,6 +16,19 @@ set hlsearch
 " 设置关键词，用于识别是否是一个单词，包含其中的都是算作一个单词
 set iskeyword=@,48-57,_,192-255,-,
 
+" 对应安装的插件
+" easymotion快速移动插件
+Plug 'easymotion/vim-easymotion'
+set easymotion
+
+" 目录树插件
+Plug 'preservim/nerdtree'
+set NERDTree
+
+" 快速符号插件
+Plug 'tpope/vim-surround'
+set surround
+
 " Don't use Ex mode, use Q for formatting.
 map Q gq
 nmap <C-j> <PageDown>
