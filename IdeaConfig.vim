@@ -52,6 +52,7 @@ nmap <A-l> :bn<CR>
 nmap <A-j> <A-Down>
 nmap <A-k> <A-Up>
 " nmap <C-S-q> <C-q>
+nmap <leader>o :NERDTree<CR>
 
 sethandler <C-2> a:vim
 sethandler <C-6> a:vim
