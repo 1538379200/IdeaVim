@@ -4,6 +4,10 @@
 "" -- Suggested options --
 " Show a few lines of context around the cursor. Note that this makes the
 " text scroll if you mouse-click near the start or end of the window.
+
+" 设置leader按键
+let mapleader=' '
+
 set scrolloff=5
 set nu
 set relativenumber
