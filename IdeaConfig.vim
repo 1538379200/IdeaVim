@@ -63,7 +63,7 @@ sethandler <C-D> a:vim
 sethandler <C-E> a:vim
 sethandler <C-F> a:ide
 sethandler <C-G> a:vim
-sethandler <C-H> a:ide
+sethandler <C-H> a:vim
 sethandler <C-I> a:vim
 sethandler <C-J> a:vim
 sethandler <A-J> a:vim
